@@ -18,6 +18,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 (https://playhouse.vercel.app/)
 
 ## Preview
+![WhatsApp Image 2021-07-24 at 4 50 28 PM](https://user-images.githubusercontent.com/65803594/126866881-f9d6e662-b9cb-4cf8-9c17-54c72c3bdb44.jpeg)
+
 
 
 
