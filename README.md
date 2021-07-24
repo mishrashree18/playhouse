@@ -17,8 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 (https://playhouse.vercel.app/)
 
-###Preview
+## Preview
 
-![Screenshot from 2021-07-21 21-11-26](https://user-images.githubusercontent.com/65803594/126866276-766c8b81-1acc-4bff-93a5-afd21795505a.png)
+
 
 
